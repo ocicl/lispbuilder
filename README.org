@@ -1,0 +1,9 @@
+* lispbuilder
+
+Lispbuilder provides a range of libraries for developing useful portable Common Lisp applications
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/lispbuilder/lispbuilder.git |
+| commit  | b7df0f2                                            |
+| systems | lispbuilder-sdl                                    |
+|---------+----------------------------------------------------|
