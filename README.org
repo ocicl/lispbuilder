@@ -4,6 +4,6 @@ Lispbuilder provides a range of libraries for developing useful portable Common 
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/lispbuilder/lispbuilder.git |
-| commit  | b7df0f2                                            |
+| commit  | 9590d70                                            |
 | systems | lispbuilder-sdl                                    |
 |---------+----------------------------------------------------|
